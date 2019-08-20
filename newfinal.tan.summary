@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 2.409 ns
+From           : din[0]
+To             : in_reg:inst|lpm_dff0:inst7|lpm_ff:lpm_ff_component|dffs[0]
+From Clock     : --
+To Clock       : CLK
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 18.676 ns
+From           : out_controller:inst12|pstate.s27
+To             : dout[14]
+From Clock     : CLK
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -1.204 ns
+From           : din[6]
+To             : in_reg:inst|lpm_dff0:inst8|lpm_ff:lpm_ff_component|dffs[6]
+From Clock     : --
+To Clock       : CLK
+Failed Paths   : 0
+
+Type           : Clock Setup: 'CLK'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 23.79 MHz ( period = 42.043 ns )
+From           : lpm_latch0:inst35|lpm_latch:lpm_latch_component|latches[0]
+To             : out_reg:inst6|lpm_dff2:inst31|lpm_ff:lpm_ff_component|dffs[15]
+From Clock     : CLK
+To Clock       : CLK
+Failed Paths   : 0
+
+Type           : Clock Hold: 'CLK'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : in_reg:inst|lpm_dff0:inst9|lpm_ff:lpm_ff_component|dffs[7]
+To             : lpm_latch0:inst36|lpm_latch:lpm_latch_component|latches[7]
+From Clock     : CLK
+To Clock       : CLK
+Failed Paths   : 86
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 86
+
+--------------------------------------------------------------------------------------
+

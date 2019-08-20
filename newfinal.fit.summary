@@ -1,0 +1,11 @@
+Fitter Status : Successful - Thu Dec 07 07:16:57 2017
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Web Edition
+Revision Name : newfinal
+Top-level Entity Name : newfinal
+Family : MAX II
+Device : EPM1270F256A5
+Timing Models : Final
+Total logic elements : 1,190 / 1,270 ( 94 % )
+Total pins : 28 / 212 ( 13 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

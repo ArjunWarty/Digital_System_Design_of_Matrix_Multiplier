@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="newfinal">
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mult1:inst1|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_3rm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst6|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|in_reg:inst|lpm_decode0:inst|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5re.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|lpm_mux1:inst5|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_4bc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|lpm_mux2:inst8|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_ncc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|out_reg:inst6|lpm_decode1:inst|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5re.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_add_sub0:inst3|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_k8h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mult1:inst2|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_3rm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst12|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_add_sub0:inst4|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_k8h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst8|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mult1:inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_3rm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst10|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst14|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|newfinal|MAC:inst3|lpm_mux0:inst5|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_abc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
